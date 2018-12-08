@@ -1,0 +1,12 @@
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\bin\Debug\atomiki_ergasia_2018-2019.exe.config
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\bin\Debug\atomiki_ergasia_2018-2019.exe
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\bin\Debug\atomiki_ergasia_2018-2019.pdb
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018-2019.csprojAssemblyReference.cache
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018_2019.Properties.Resources.resources
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018-2019.csproj.GenerateResource.cache
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018-2019.csproj.CoreCompileInputs.cache
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018-2019.exe
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018-2019.pdb
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018_2019.Form1.resources
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018_2019.Form2.resources
+C:\Users\gespy\source\repos\atomiki_ergasia_2018-2019\atomiki_ergasia_2018-2019\obj\Debug\atomiki_ergasia_2018_2019.Form3.resources

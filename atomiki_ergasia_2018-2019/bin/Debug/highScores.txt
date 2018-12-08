@@ -1,0 +1,10 @@
+James 100 0 0 0
+John 200 0 0 0
+Jack 20 0 0 0
+Rob 30 0 0 0
+Jane 80 0 0 0
+Someoneeee 380 0 0 0
+Bob 10 320 80 0
+George 300 290 80 0
+Zelda 0 0 120 0
+
